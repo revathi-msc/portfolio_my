@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30fe1b6a.css",
+    "main.js": "/static/js/main.7db6a9eb.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/P3.JPG": "/static/media/P3.ac8c2eb21154fdd65d4b.JPG",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/P5.JPG": "/static/media/P5.a4edba2cf92e6649d360.JPG",
+    "static/media/P4.JPG": "/static/media/P4.be8604b45d0523f0099b.JPG",
+    "static/media/revathiresume.pdf": "/static/media/revathiresume.9b2da20aa4631d78704c.pdf",
+    "static/media/P6.JPG": "/static/media/P6.18e3164c3d5811c99e36.JPG",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/P1.JPG": "/static/media/P1.82e906ed59cafdabeb3b.JPG",
+    "static/media/P2.JPG": "/static/media/P2.51a50d601458b26920cd.JPG",
+    "static/media/R1.png": "/static/media/R1.0cbbd31b35e1bca6a10d.png",
+    "static/media/revathi.png": "/static/media/revathi.cbaa9f94b374370ee1fa.png",
+    "index.html": "/index.html",
+    "main.30fe1b6a.css.map": "/static/css/main.30fe1b6a.css.map",
+    "main.7db6a9eb.js.map": "/static/js/main.7db6a9eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30fe1b6a.css",
+    "static/js/main.7db6a9eb.js"
+  ]
+}
